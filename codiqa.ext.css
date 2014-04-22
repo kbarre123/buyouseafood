@@ -1,0 +1,134 @@
+/* Put your custom CSS here */
+
+.grid_1 {width: 8.33%}
+.grid_2 {width: 16.66%}
+.grid_3 {width: 25%}
+.grid_4 {width: 33.33%}
+.grid_5 {width: 41.66%}
+.grid_6 {width: 50%}
+.grid_7 {width: 58.33%}
+.grid_8 {width: 66.66%}
+.grid_9 {width: 75%}
+.grid_10 {width: 83.33%}
+.grid_11 {width: 91.66%}
+.grid_12 {width: 100%}
+
+.grid_1,
+.grid_2,
+.grid_3,
+.grid_4,
+.grid_5,
+.grid_6,
+.grid_7,
+.grid_8,
+.grid_9,
+.grid_10,
+.grid_11,
+.grid_12 {
+	text-align: left;
+	float: left;
+}
+
+.align_center {
+	text-align: center;
+}
+
+.align_right {
+	text-align: right;
+}
+
+.graph {
+	padding-left: 1%;
+	width: 95%;
+}
+
+.footer {
+	text-align: center;
+	font-size: 0.75em;
+	width: 50%;
+	float: left;
+}
+
+.main_table {
+	table-layout: auto;
+	width: 90%;
+	text-align: center;
+	margin: auto;
+	background-color: #ffffff;
+}
+
+table {
+	border-collapse:collapse;
+}
+
+table,th, td {
+	border: 1px solid black;
+}
+
+.table_page_header {
+	text-align: center;
+	font-size: 1.25em;
+	color: #ffffff;
+	text-shadow: 1px 1px black;
+}
+
+.table_head {
+	color: black;
+	text-shadow: 1px 1px white;
+	background-color: #ACACAC;
+	height: 2em;
+}
+
+ul li a {
+	font-size: 1em;
+}
+
+td a {
+	text-decoration: none;
+}
+
+td {
+	word-wrap: break-word;
+	color: black;
+	text-shadow: none;
+}
+
+/* USED ONLY FOR TESTING PDO AVERAGE PRICE DOC */
+.black_center {
+	font-size: 1.5em;
+	text-align: center;
+	margin: 5%, 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
